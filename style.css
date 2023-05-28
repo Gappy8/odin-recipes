@@ -1,0 +1,17 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: gray;
+    font-family: fantasy;
+}
+
+li {
+    text-align: center;
+    font-size: 40px;
+    list-style-type: none;
+    color: lightgray;
+}
+
+body {
+    background-color: lightgray;
+}
