@@ -25,4 +25,21 @@ h3 {
 
 body {
     background-color: lightgray;
+    padding: 50px;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+}
+
+ol {
+    text-align: center;
+    list-style: none;
+}
+
+.burr {
+    padding: 20px;
+    margin: 25px 300px;
+    border: 2px solid gray;
 }
